@@ -45,4 +45,4 @@ def recommend_outfit(outfits, outfit_type=None):
 ]
 
 
-fixes[#2]
+
