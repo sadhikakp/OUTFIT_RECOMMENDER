@@ -43,3 +43,6 @@ def recommend_outfit(outfits, outfit_type=None):
     "items": ["tracksuit", "running shoes"]
   }
 ]
+
+
+fixes[#2]
